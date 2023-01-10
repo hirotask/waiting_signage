@@ -86,7 +86,7 @@ export default function Home() {
               <Stack direction={'column'}>
                 <Box sx={{ border: '1px solid black'}} width={'100px'}>
                   <Typography variant={'h4'}>
-                    2階
+                    3階
                   </Typography>
                 </Box>
                 <Slider {...settings} >
@@ -126,7 +126,7 @@ export default function Home() {
               <Stack direction={'column'}>
                 <Box sx={{ border: '1px solid black'}} width={'100px'}>
                   <Typography variant={'h4'}>
-                    2階
+                    3階
                   </Typography>
                 </Box>
                 <div className={styles.centerBox}>
